@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\out\out_0003.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>out</name>
+				<bndbox>
+					<xmin>783</xmin>
+					<ymin>242</ymin>
+					<xmax>1107</xmax>
+					<ymax>738</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1585807884989</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>1259</width>
+		<height>837</height>
+		<depth>3</depth>
+	</size>
+</doc>

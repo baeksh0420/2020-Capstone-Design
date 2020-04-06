@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\in\in_0013.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>in</name>
+				<bndbox>
+					<xmin>8</xmin>
+					<ymin>0</ymin>
+					<xmax>218</xmax>
+					<ymax>191</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1585807728182</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>263</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+</doc>

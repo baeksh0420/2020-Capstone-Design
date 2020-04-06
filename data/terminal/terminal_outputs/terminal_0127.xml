@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\terminal\terminal_0127.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>terminal</name>
+				<bndbox>
+					<xmin>52</xmin>
+					<ymin>80</ymin>
+					<xmax>122</xmax>
+					<ymax>146</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1586164455776</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+</doc>

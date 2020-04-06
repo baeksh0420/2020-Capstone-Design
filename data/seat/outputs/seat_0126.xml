@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\seat\seat_0126.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>seat</name>
+				<bndbox>
+					<xmin>3</xmin>
+					<ymin>11</ymin>
+					<xmax>73</xmax>
+					<ymax>185</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1585810850682</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>250</width>
+		<height>202</height>
+		<depth>3</depth>
+	</size>
+</doc>

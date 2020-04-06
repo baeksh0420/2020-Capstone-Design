@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<path>C:\bell\bell_0141.jpg</path>
+	<outputs>
+		<object>
+			<item>
+				<name>bell</name>
+				<bndbox>
+					<xmin>48</xmin>
+					<ymin>86</ymin>
+					<xmax>132</xmax>
+					<ymax>172</ymax>
+				</bndbox>
+			</item>
+		</object>
+	</outputs>
+	<time_labeled>1585807996530</time_labeled>
+	<labeled>true</labeled>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+</doc>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>terminal</folder>
+	<filename>terminal_0070.jpg</filename>
+	<path>C:\Users\lini1\OneDrive\바탕 화면\terminal\terminal_0070.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>terminal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>155</ymin>
+			<xmax>151</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

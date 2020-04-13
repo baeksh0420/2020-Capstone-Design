@@ -1,0 +1,26 @@
+<annotation>
+	<folder>in</folder>
+	<filename>in_0005.jpg</filename>
+	<path>C:\semi\capstone\data\in&amp;out\in\in_0005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>187</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>in</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>17</ymin>
+			<xmax>201</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'terminal'
+}
+
+item {
+  id: 2
+  name: 'seat'
+}
+
+item {
+  id: 3
+  name: 'bell'
+}
+
+item {
+  id: 4
+  name: 'in'
+}
+
+item {
+  id: 5
+  name: 'out'
+}

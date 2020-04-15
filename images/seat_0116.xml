@@ -1,0 +1,26 @@
+<annotation>
+	<folder>seat</folder>
+	<filename>seat_0116.jpg</filename>
+	<path>C:\seat\seat_0116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>168</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>108</ymin>
+			<xmax>131</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

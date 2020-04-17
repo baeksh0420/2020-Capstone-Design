@@ -1,0 +1,26 @@
+<annotation>
+	<folder>busfront</folder>
+	<filename>KakaoTalk_20200415_103003792_01.jpg</filename>
+	<path>C:\Capstone\busfront\KakaoTalk_20200415_103003792_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bnum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1232</xmin>
+			<ymin>1730</ymin>
+			<xmax>1396</xmax>
+			<ymax>1937</ymax>
+		</bndbox>
+	</object>
+</annotation>

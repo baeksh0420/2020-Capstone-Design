@@ -1,0 +1,26 @@
+<annotation>
+	<folder>busfront</folder>
+	<filename>images (5).jpeg</filename>
+	<path>C:\Capstone\busfront\images (5).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>282</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bnum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>41</ymin>
+			<xmax>192</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

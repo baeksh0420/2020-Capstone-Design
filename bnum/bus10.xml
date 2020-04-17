@@ -1,0 +1,26 @@
+<annotation>
+	<folder>license_plate_recognition-master</folder>
+	<filename>bus10.jpg</filename>
+	<path>C:\Users\이세정\Desktop\license_plate_recognition-master\license_plate_recognition-master\bus10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bnum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>79</ymin>
+			<xmax>289</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>

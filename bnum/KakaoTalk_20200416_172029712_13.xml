@@ -1,0 +1,26 @@
+<annotation>
+	<folder>가마우지</folder>
+	<filename>KakaoTalk_20200416_172029712_13.jpg</filename>
+	<path>C:\Users\이세정\Desktop\license_plate_recognition-master\license_plate_recognition-master\가마우지\KakaoTalk_20200416_172029712_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bnum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>176</ymin>
+			<xmax>432</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,13 +1,13 @@
 <annotation>
 	<folder>bnum</folder>
 	<filename>bnum_0051.jpg</filename>
-	<path>C:\Users\이세정\Desktop\bnum\bnum\bnum_0051.jpg</path>
+	<path>C:\semi\capstone\bnum\bnum_0051.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4032</width>
-		<height>3024</height>
+		<width>512</width>
+		<height>288</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2616</xmin>
-			<ymin>220</ymin>
-			<xmax>2739</xmax>
-			<ymax>446</ymax>
+			<xmin>392</xmin>
+			<ymin>12</ymin>
+			<xmax>437</xmax>
+			<ymax>49</ymax>
 		</bndbox>
 	</object>
 </annotation>

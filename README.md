@@ -2,7 +2,7 @@
 
 + 객체 인식 참고 깃허브 : https://github.com/5taku/custom_object_detection
   + 이미지 라벨링 https://github.com/tzutalin/labelImg
-
+  
 ## 4/12 ~ 4/17 ( 1주차 )
 - [x] 데이터 수집 (하차벨, 단말기, 버스 출입구, 버스 빈 좌석)
 - [x] 데이터 라벨링 (하차벨, 단말기, 버스 출입구, 버스 빈 좌석)

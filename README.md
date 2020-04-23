@@ -3,6 +3,9 @@
 + 객체 인식 참고 깃허브 : https://github.com/5taku/custom_object_detection
   + 이미지 라벨링 https://github.com/tzutalin/labelImg
 
+## 3/29 ~ 4/3 ( 3주차 )
+- [x] 아이디어 구상(시각장애인을 위한 버스 보조 시스템)
+
 ## 4/5 ~ 4/10 ( 4주차 )
 - [x] 아이디어 제안서
 

@@ -22,3 +22,8 @@ item {
   id: 5
   name: 'out'
 }
+
+item {
+  id: 6
+  name: 'bnum'
+}

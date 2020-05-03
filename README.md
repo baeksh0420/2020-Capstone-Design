@@ -46,6 +46,14 @@
 - [x] 빈좌석(노약좌석, 임산부석으로 한정), 버스 단말기(한가지 기종으로 통일) 데이터 재수집&라벨링
 
 ## 5/3 ~ 5/8 ( 8주차 )
++ 하차벨, 단말기, 버스 앞면(버스 번호 인식), 빈좌석, 버스 출입구 이미지 데이터로 ssd 검출기와 mobile net 분류기로 학습시킨 결과
+
+![ssd_loss](https://user-images.githubusercontent.com/44723287/80898551-b9ed1580-8d3f-11ea-9609-5018adb84173.JPG)
+
+![ssd_IOUbycategory](https://user-images.githubusercontent.com/44723287/80898533-814d3c00-8d3f-11ea-91d8-de9ecba3d969.JPG)
+
+![ssd_precision](https://user-images.githubusercontent.com/44723287/80898549-b8235200-8d3f-11ea-85d2-4a7e860bbdea.JPG)
+
 - [ ] 안드로이드 스튜디오에서 c++ 파일 연결
 
 ## 5/10 ~ 5/15 ( 9주차 )

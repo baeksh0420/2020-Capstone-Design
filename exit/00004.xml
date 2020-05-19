@@ -1,0 +1,26 @@
+<annotation>
+	<folder>exit</folder>
+	<filename>00004.jpg</filename>
+	<path>C:\Users\이세정\Desktop\exit\00004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>681</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>exit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>217</ymin>
+			<xmax>544</xmax>
+			<ymax>739</ymax>
+		</bndbox>
+	</object>
+</annotation>

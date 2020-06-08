@@ -1,13 +1,13 @@
 <annotation>
 	<folder>bell</folder>
 	<filename>bell_0034.jpg</filename>
-	<path>C:\Users\lini1\OneDrive\바탕 화면\4-1\Capstone\data\bell\bell_0034.jpg</path>
+	<path>C:\Users\이세정\Desktop\data\bell\bell_0034.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>168</width>
-		<height>300</height>
+		<width>338</width>
+		<height>450</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>68</xmin>
-			<ymin>142</ymin>
-			<xmax>102</xmax>
-			<ymax>176</ymax>
+			<xmin>32</xmin>
+			<ymin>7</ymin>
+			<xmax>152</xmax>
+			<ymax>183</ymax>
 		</bndbox>
 	</object>
 </annotation>

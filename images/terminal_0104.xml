@@ -1,26 +1,26 @@
 <annotation>
 	<folder>terminal</folder>
 	<filename>terminal_0104.jpg</filename>
-	<path>C:\Users\lini1\OneDrive\바탕 화면\terminal\terminal_0104.jpg</path>
+	<path>C:\Users\이세미\Desktop\data\terminal\terminal_0104.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>168</width>
-		<height>300</height>
+		<width>338</width>
+		<height>450</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>terminal</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>35</xmin>
-			<ymin>67</ymin>
-			<xmax>129</xmax>
-			<ymax>236</ymax>
+			<xmin>225</xmin>
+			<ymin>105</ymin>
+			<xmax>338</xmax>
+			<ymax>372</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,26 +1,26 @@
 <annotation>
 	<folder>seat</folder>
 	<filename>seat_0137.jpg</filename>
-	<path>C:\seat\seat_0137.jpg</path>
+	<path>C:\Users\이세미\Desktop\data\seat\seat_0137.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>225</width>
-		<height>225</height>
+		<width>338</width>
+		<height>450</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>seat</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>114</ymin>
-			<xmax>117</xmax>
-			<ymax>225</ymax>
+			<xmin>17</xmin>
+			<ymin>59</ymin>
+			<xmax>291</xmax>
+			<ymax>444</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
 	<folder>seat</folder>
 	<filename>seat_0011.jpg</filename>
-	<path>C:\seat\seat_0011.jpg</path>
+	<path>C:\Users\이세미\Desktop\data\seat\seat_0011.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>300</width>
-		<height>168</height>
+		<width>338</width>
+		<height>450</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>114</xmin>
-			<ymin>87</ymin>
-			<xmax>172</xmax>
-			<ymax>157</ymax>
+			<xmin>22</xmin>
+			<ymin>149</ymin>
+			<xmax>246</xmax>
+			<ymax>446</ymax>
 		</bndbox>
 	</object>
 </annotation>
